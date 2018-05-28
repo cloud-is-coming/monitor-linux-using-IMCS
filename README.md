@@ -51,3 +51,5 @@ Infrastructure Monitoring Cloud Service（基础架构监视云服务），简�
 
 
 **部署架构图**
+
+![IMCS架构图](https://github.com/cloud-is-coming/monitor-linux-using-IMCS/blob/master/imcs%20architect%201.jpg)
